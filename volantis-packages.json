@@ -31,5 +31,17 @@
             "type": "github",
             "location": "VolantisDev/Volantis.Test"
         }
+    },
+    "paths": {
+        "package": "volantis/packages",
+        "library": "volantis/libraries",
+        "application": "volantis/applications",
+        "script": "volantis/scripts",
+        "command": "volantis/commands",
+        "module": "volantis/modules",
+        "theme": "assets/themes/managed",
+        "image-pack": "assets/images/managed",
+        "icon-pack": "assets/icons/managed",
+        "external": "assets/ext/managed"
     }
 }
