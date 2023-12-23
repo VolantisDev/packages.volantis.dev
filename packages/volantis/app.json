@@ -1,0 +1,20 @@
+{
+    "packages": {
+        "volantis/app": [
+            {
+                "type": "vcs",
+                "version": "dev-main",
+                "url": "https://github.com/volantis-packages/app.git",
+                "reference": "branches/main",
+                "require": {
+                    "volantis/backup": "^1.0 || dev-main",
+                    "volantis/bulk-operations": "^1.0 || dev-main",
+                    "volantis/code-gen": "^1.0 || dev-main",
+                    "volantis/gui": "^1.0 || dev-main",
+                    "volantis/module": "^1.0 || dev-main",
+                    "volantis/task": "^1.0 || dev-main"
+                }
+            }
+        ]
+    }
+}

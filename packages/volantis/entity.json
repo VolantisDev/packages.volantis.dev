@@ -1,0 +1,14 @@
+{
+    "name": "volantis/entity",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/entity.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/gui": "^1.0 || dev-main"
+            }
+        }
+    ]
+}

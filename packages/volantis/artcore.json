@@ -1,0 +1,15 @@
+{
+    "packages": {
+        "volantis/artcore": [
+            {
+                "type": "vcs",
+                "version": "dev-main",
+                "url": "https://github.com/volantis-packages/artcore.git",
+                "reference": "branches/main",
+                "require": {
+                    "volantis/lightcore": "^1.0 || dev-main"
+                }
+            }
+        ]
+    }
+}

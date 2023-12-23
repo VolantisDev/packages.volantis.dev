@@ -1,0 +1,14 @@
+{
+    "name": "volantis/xcore",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/xcore.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/darkcore": "^1.0 || dev-main"
+            }
+        }
+    ]
+}

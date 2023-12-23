@@ -1,0 +1,6 @@
+{
+    "name": "packages.volantis.dev",
+    "description": "The main, official Volantis package repository",
+    "website": "https://packages.volantis.dev",
+    "metadata-url": "/packages/%package%.json"
+}

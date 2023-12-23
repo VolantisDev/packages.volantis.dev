@@ -1,0 +1,14 @@
+{
+    "name": "volantis/lightcore",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/lightcore.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/material-icons": "*"
+            }
+        }
+    ]
+}

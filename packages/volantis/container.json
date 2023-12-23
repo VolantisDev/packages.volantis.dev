@@ -1,0 +1,14 @@
+{
+    "name": "volantis/container",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/container.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/common": "^1.0 || dev-main"
+            }
+        }
+    ]
+}

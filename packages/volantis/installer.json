@@ -1,0 +1,16 @@
+{
+    "name": "volantis/installer",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/installer.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/bulk-operations": "^1.0 || dev-main",
+                "volantis/config": "^1.0 || dev-main",
+                "volantis/file": "^1.0 || dev-main"
+            }
+        }
+    ]
+}

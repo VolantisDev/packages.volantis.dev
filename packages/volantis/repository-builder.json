@@ -1,0 +1,15 @@
+{
+    "name": "volantis/repository-builder",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/repository-builder.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/app": "^1.0 || dev-main",
+                "volantis/package": "^1.0 || dev-main"
+            }
+        }
+    ]
+}

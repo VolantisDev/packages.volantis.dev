@@ -1,0 +1,42 @@
+{
+    "repository-info": {
+        "name": "packages.volantis.dev",
+        "description": "The official Volantis package repository",
+        "website": "https://packages.volantis.dev",
+        "metadata-url": "/packages/%package%.json"
+    },
+    "packages": [
+        {
+            "type": "github",
+            "location": "volantis-packages/app"
+        },
+        "volantis-packages/artcore",
+        "volantis-packages/backup",
+        "volantis-packages/blizzcore",
+        "volantis-packages/bulk-operations",
+        "volantis-packages/cache",
+        "volantis-packages/code-gen",
+        "volantis-packages/common",
+        "volantis-packages/config",
+        "volantis-packages/container",
+        "volantis-packages/core",
+        "volantis-packages/darkcore",
+        "volantis-packages/entity",
+        "volantis-packages/file",
+        "volantis-packages/gui",
+        "volantis-packages/installer",
+        "volantis-packages/lightcore",
+        "volantis-packages/material-icons",
+        "volantis-packages/module",
+        "volantis-packages/overcore",
+        "volantis-packages/package",
+        "volantis-packages/project-starter",
+        "volantis-packages/repository-builder",
+        "volantis-packages/steamcore",
+        "volantis-packages/task",
+        "volantis-packages/test",
+        "volantis-packages/vcs",
+        "volantis-packages/version",
+        "volantis-packages/xcore"
+    ]
+}

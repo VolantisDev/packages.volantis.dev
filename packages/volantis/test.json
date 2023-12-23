@@ -1,0 +1,14 @@
+{
+    "name": "volantis/test",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/test.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/core": "^1.0 || dev-main"
+            }
+        }
+    ]
+}

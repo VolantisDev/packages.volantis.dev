@@ -1,0 +1,14 @@
+{
+    "name": "volantis/steamcore",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/steamcore.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/entity": "^1.0 || dev-main"
+            }
+        }
+    ]
+}

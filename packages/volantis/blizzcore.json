@@ -1,0 +1,15 @@
+{
+    "packages": {
+        "volantis/blizzcore": [
+            {
+                "type": "vcs",
+                "version": "dev-main",
+                "url": "https://github.com/volantis-packages/blizzcore.git",
+                "reference": "branches/main",
+                "require": {
+                    "volantis/darkcore": "^1.0 || dev-main"
+                }
+            }
+        ]
+    }
+}

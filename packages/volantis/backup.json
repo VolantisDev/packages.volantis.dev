@@ -1,0 +1,15 @@
+{
+    "name": "volantis/backup",
+    "releases": [
+        {
+            "type": "vcs",
+            "version": "dev-main",
+            "url": "https://github.com/volantis-packages/backup.git",
+            "reference": "branches/main",
+            "require": {
+                "volantis/entity": "^1.0 || dev-main",
+                "volantis/version": "^1.0 || dev-main"
+            }
+        }
+    ]
+}
