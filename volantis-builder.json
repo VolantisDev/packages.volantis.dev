@@ -37,6 +37,7 @@
         "volantis-packages/test",
         "volantis-packages/vcs",
         "volantis-packages/version",
+        "volantis-packages/volantis",
         "volantis-packages/xcore"
     ]
 }
